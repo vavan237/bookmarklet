@@ -28,7 +28,7 @@ SECRET_KEY = '1g7a81vo4nd8gzgdtqm+3w&y-$rimk0+ljog)*v*p3qv7h*-lo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mysite.com', 'localhost', '127.0.0.1', '3190-85-26-234-182.ngrok.io']
+ALLOWED_HOSTS = ['mysite.com', 'localhost', '127.0.0.1', 'https://alpic.herokuapp.com/']
 
 
 # Application definition
